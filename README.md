@@ -1,1 +1,2 @@
 # Web-Task-1-Control-Panel
+In this project, a Robot control panel website have been done. The website consists of five buttons, "forward", "Left", "Stop", "Right", and "Backward". These buttons are used to control the robot movement. Moreover, a "MySQL" data base have been made and it is connected with the html website. When a button is clicked, the movement will be stored in the data base using php codes.
